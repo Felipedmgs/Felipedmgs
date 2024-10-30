@@ -1,7 +1,7 @@
 # 👋 Felipe Daniel Domingues
 
 **Desenvolvedor FullStack | DevOps**  
-📍 São Paulo, SP  
+📍 Santo André, SP  
 📧 [felipedd@hotmail.com](mailto:felipedd@hotmail.com)  
 [LinkedIn](https://linkedin.com/in/felipe-domingues) | [GitHub](https://github.com/Felipedmgs)
 
