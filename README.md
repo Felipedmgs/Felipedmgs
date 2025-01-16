@@ -3,8 +3,7 @@
 **Desenvolvedor FullStack | DevOps**  
 📍 Santo André, SP  
 📧 [felipedd@hotmail.com](mailto:felipedd@hotmail.com)  
-[LinkedIn](https://linkedin.com/in/felipe-domingues) | [GitHub](https://github.com/Felipedmgs)
-
+[LinkedIn](https://linkedin.com/in/felipe-domingues-19453126) | [GitHub](https://github.com/Felipedmgs)
 ---
 
 ### 🌐 Sobre Mim
