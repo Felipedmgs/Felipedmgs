@@ -7,10 +7,25 @@
 ---
 
 ### 🌐 Sobre Mim
+👋🏼 Desenvolvedor Backend especializado em PHP, PYTHON, automação de processos e IOT, com mais de 6 anos de experiência. Proficiente em criar APIs, otimizar sistemas e desenvolver soluções que transformam desafios técnicos em resultados tangíveis. Combinando perfil analítico e criativo, atuo para entregar eficiência e valor por meio da tecnologia.
 
-Profissional com mais de 7 anos de experiência no desenvolvimento de sistemas web e automação de processos, com especialização em tecnologias como **PHP**, **MySQL**, **SQL Server**, **JavaScript** e **Docker**. Além de um foco constante em aprimorar minhas habilidades, atualmente estou estudando inglês e aprofundando meus conhecimentos em containerização.
+😀Valorizo a empatia e a escuta ativa, buscando sempre compreender as perspectivas dos colegas e clientes para construir sistemas que realmente façam a diferença.
 
-Minha jornada profissional inclui desenvolvimento FullStack, gerenciamento de ERP e WMS, automação de relatórios para Business Intelligence e implementação de práticas de DevOps. Minha paixão por tecnologia e inovação me leva a buscar constantemente maneiras de otimizar processos e agregar valor às soluções que desenvolvo.
+💻Minha abordagem analítica e atenção aos detalhes me capacitam a identificar oportunidades de melhoria e resolver desafios de maneira criativa e eficiente.
+
+
+Um pouco em como utilizo as técnologias:
+1. Backend:
+Transformo processos manuais em interfaces digitais otimizadas, aumentando a eficiência operacional e entregando resultados tangíveis para os clientes. Meu foco é criar sistemas robustos que simplifiquem o trabalho e proporcionem insights estratégicos.
+
+2. Automação:
+Desenvolvo rotinas automatizadas que eliminam tarefas repetitivas, permitindo que as equipes foquem em decisões estratégicas. Isso resulta em uma gestão mais eficiente e em entregas com maior valor agregado.
+
+3. Integração de Sistemas:
+Especialista em conectar diferentes plataformas, ferramentas e API's garanto uma comunicação fluida entre sistemas, proporcionando uma experiência unificada e melhorando os fluxos de trabalho.
+
+4. Resolução de Problemas:
+Tenho experiência em identificar gargalos e implementar soluções ágeis
 
 ---
 
