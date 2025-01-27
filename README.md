@@ -60,7 +60,7 @@ Tenho experiência em identificar gargalos e implementar soluções ágeis
 
 - **HP – Hewlett Packard**  
   *Analista Service Desk (Bilíngue – Espanhol)  
-  Fev/2013 – Mar/2014
+  Fev/2013 – Mar/2014  
   Realizei suporte técnico N1 e N2, acessando remotamente máquinas de clientes, garantindo uma resolução rápida e eficiente dos problemas reportados.
   Treinei novos colaboradores da equipe técnica, compartilhando boas práticas e promovendo um ambiente colaborativo para acelerar o aprendizado e a adaptação.
   Criei uma base de conhecimento técnico estruturada, que serviu como referência para a equipe, otimizando o tempo de resolução de problemas.
