@@ -58,10 +58,12 @@ Tenho experiência em identificar gargalos e implementar soluções ágeis
   Fev 2021 – Nov 2021  
   Gestão de testes e releases, com foco em sistemas em PHP e ScriptCase.
 
-- **EMAE - Empresa Metropolitana de Águas e Energia S.A.**  
-  *Estagiário de TI*  
-  Abr 2016 – Jan 2017  
-  Manutenção de hardware e redes, criação de inventário de ativos.
+- **HP – Hewlett Packard**  
+  *Analista Service Desk (Bilíngue – Espanhol)  
+  Fev/2013 – Mar/2014
+  Realizei suporte técnico N1 e N2, acessando remotamente máquinas de clientes, garantindo uma resolução rápida e eficiente dos problemas reportados.
+  Treinei novos colaboradores da equipe técnica, compartilhando boas práticas e promovendo um ambiente colaborativo para acelerar o aprendizado e a adaptação.
+  Criei uma base de conhecimento técnico estruturada, que serviu como referência para a equipe, otimizando o tempo de resolução de problemas.
 
 ---
 
