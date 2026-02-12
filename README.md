@@ -48,9 +48,14 @@ Tenho experiência em identificar gargalos e implementar soluções ágeis
 
 ### 💼 Experiência Profissional
 
+- **Oxxo Brasil**
+  *Analista Desenv Sistemas SR*
+  Mai 2025 - Atual
+  Desenvolvimento e evolução de serviços backend em Node.js e Oracle PL/SQL, responsáveis pela integração de sistemas corporativos críticos de 600+ lojas nas áreas de estoque, pricing e operações.  
+
 - **Andreani Logística**  
   *Desenvolvedor DevOps – Backend*  
-  Nov 2021 – Atual  
+  Nov 2021 – Mai 2025 
   Responsável pelo desenvolvimento de interfaces para otimizar processos logísticos e suporte em Business Intelligence.
 
 - **GlobalBlue**  
